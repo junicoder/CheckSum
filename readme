@@ -1,11 +1,11 @@
-```markdown
 # Internet Checksum (Binary Input) Simulator
 
-A Python -based simulator for computing and verifying checksums in binary data transmission. This project is designed to help understand how checksums are used to ensure data integrity during transmission.
+A Python-based simulator for computing and verifying checksums in binary data transmission. This project is designed to help understand how checksums are used to ensure data integrity during transmission.
 
 ## Project Overview
 
 This project simulates the process of transmitting binary data and uses checksums to detect errors that may occur during transmission. It includes functionalities to:
+
 - Convert binary strings to byte vectors.
 - Compute checksums.
 - Simulate errors in data transmission.
@@ -13,11 +13,11 @@ This project simulates the process of transmitting binary data and uses checksum
 
 ## Submitted To
 
-- **Instructor**: Rashid Rasheed
+- **Instructor:** Rashid Rasheed
 
 ## Course
 
-- **Course Name**: Computer Networks
+- **Course Name:** Computer Networks
 
 ## Submitted By
 
@@ -26,20 +26,20 @@ This project simulates the process of transmitting binary data and uses checksum
 
 ## Section
 
-- **Section**: V4
+- **Section:** V4
 
 ## Features
 
-- **Binary to Bytes Conversion**: Converts binary input strings into a list of bytes.
-- **Checksum Computation**: Computes the checksum for a given set of bytes.
-- **Error Simulation**: Simulates random bit errors in the transmitted data.
-- **Data Integrity Verification**: Verifies the integrity of the received data using checksums.
+- **Binary to Bytes Conversion:** Converts binary input strings into a list of bytes.
+- **Checksum Computation:** Computes the checksum for a given set of bytes.
+- **Error Simulation:** Simulates random bit errors in the transmitted data.
+- **Data Integrity Verification:** Verifies the integrity of the received data using checksums.
 
 ## How to Use
 
-1. **Run the Program**: Execute the Python script in a Python environment.
-2. **Enter Binary Data**: Input a binary string when prompted.
-3. **View Results**: The program will display the steps of the transmission simulation, including the original input, converted bytes, computed checksum, and verification results.
+1. **Run the Program:** Execute the Python script in a Python environment.
+2. **Enter Binary Data:** Input a binary string when prompted.
+3. **View Results:** The program will display the steps of the transmission simulation, including the original input, converted bytes, computed checksum, and verification results.
 
 ## Requirements
 
@@ -51,26 +51,19 @@ This project simulates the process of transmitting binary data and uses checksum
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed.
 3. Run the script using the command:
-   ```bash
-   python checksum_simulator.py
-   ```
 
-## Example Usage
-
-1. Start the program.
-2. Choose the option to enter binary data.
-3. Input a binary string, e.g., `0100100001100101`.
-4. View the simulation steps and results.
-
-## License
-
+```bash
+python checksum_simulator.py
+Example Usage
+Start the program.
+Choose the option to enter binary data.
+Input a binary string, e.g., 0100100001100101.
+View the simulation steps and results.
+License
 This project is open-source and available for educational purposes.
 
-## Contact
-
+Contact
 For any questions or further information, please contact:
-- Muhammad Junaid: [Your Email]
-- Arsal Naveed: [Your Email]
-```
 
-This `README.md` file provides a comprehensive overview of your project, including how to use it, requirements, and other relevant details. You can customize the contact information and any other specific details as needed.
+Muhammad Junaid: [Your Email]
+Arsal Naveed: [Your Email]
