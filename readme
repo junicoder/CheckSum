@@ -1,0 +1,78 @@
+Here's a `README.md` file for your Internet Checksum Simulator project. This file provides an overview of the project, instructions on how to use it, and other relevant information:
+
+```markdown
+# Internet Checksum (Binary Input) Simulator
+
+A Python-based simulator for computing and verifying checksums in binary data transmission. This project is designed to help understand how checksums are used to ensure data integrity during transmission.
+
+## Project Overview
+
+This project simulates the process of transmitting binary data and uses checksums to detect errors that may occur during transmission. It includes functionalities to:
+- Convert binary strings to byte vectors.
+- Compute checksums.
+- Simulate errors in data transmission.
+- Verify data integrity using checksums.
+
+## Submitted To
+
+- **Instructor**: Rashid Rasheed
+
+## Course
+
+- **Course Name**: Computer Networks
+
+## Submitted By
+
+- **Muhammad Junaid** (F2023266884)
+- **Arsal Naveed** (F2023266900)
+
+## Section
+
+- **Section**: V4
+
+## Features
+
+- **Binary to Bytes Conversion**: Converts binary input strings into a list of bytes.
+- **Checksum Computation**: Computes the checksum for a given set of bytes.
+- **Error Simulation**: Simulates random bit errors in the transmitted data.
+- **Data Integrity Verification**: Verifies the integrity of the received data using checksums.
+
+## How to Use
+
+1. **Run the Program**: Execute the Python script in a Python environment.
+2. **Enter Binary Data**: Input a binary string when prompted.
+3. **View Results**: The program will display the steps of the transmission simulation, including the original input, converted bytes, computed checksum, and verification results.
+
+## Requirements
+
+- Python 3.x
+- No additional libraries required
+
+## Installation
+
+1. Clone the repository to your local machine.
+2. Ensure you have Python installed.
+3. Run the script using the command:
+   ```bash
+   python checksum_simulator.py
+   ```
+
+## Example Usage
+
+1. Start the program.
+2. Choose the option to enter binary data.
+3. Input a binary string, e.g., `0100100001100101`.
+4. View the simulation steps and results.
+
+## License
+
+This project is open-source and available for educational purposes.
+
+## Contact
+
+For any questions or further information, please contact:
+- Muhammad Junaid: [Your Email]
+- Arsal Naveed: [Your Email]
+```
+
+This `README.md` file provides a comprehensive overview of your project, including how to use it, requirements, and other relevant details. You can customize the contact information and any other specific details as needed.
