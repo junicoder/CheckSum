@@ -3,7 +3,7 @@ Here's a `README.md` file for your Internet Checksum Simulator project. This fil
 ```markdown
 # Internet Checksum (Binary Input) Simulator
 
-A Python-based simulator for computing and verifying checksums in binary data transmission. This project is designed to help understand how checksums are used to ensure data integrity during transmission.
+A Python -based simulator for computing and verifying checksums in binary data transmission. This project is designed to help understand how checksums are used to ensure data integrity during transmission.
 
 ## Project Overview
 
